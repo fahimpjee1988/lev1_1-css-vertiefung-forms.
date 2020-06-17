@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+
+}
+
+h2{
+    text-align: left;
+}
+
+div{
+    display: flex;
+}
